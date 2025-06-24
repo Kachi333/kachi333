@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Ukachi Chibueze!  
 
-🚀 **Ethereum Blockchain Developer** | Smart Contract Auditor | DeFi & NFT Enthusiast  
+🚀 **EVM Blockchain Developer** | Smart Contract Auditor | DeFi & NFT Enthusiast  
 
 ## 🛠 About Me  
-I am a **Blockchain Developer** specializing in **Ethereum smart contracts, DeFi protocols, NFTs, and token engineering**. I focus on:  
+I am a **Blockchain Developer** specializing in **EVM smart contracts, DeFi protocols, NFTs, and token engineering**. I focus on:  
 - 📝 **Writing & auditing** secure, gas-efficient Solidity smart contracts  
 - 🔗 Building **DApps, DeFi platforms, and NFT solutions**  
 - 🛡️ Ensuring **smart contract security & best practices**  
